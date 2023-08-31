@@ -1,6 +1,6 @@
 {
   "name": "@michihiro.ota/nestjs-firebase-admin",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "NestJS Firebase Admin Service Factory",
   "author": "Michihiro Ota <mo@blueaoth.jp>",
   "license": "MIT",
