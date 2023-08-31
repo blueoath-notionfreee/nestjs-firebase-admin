@@ -14,7 +14,7 @@
       "prerelease": true
     }
   ],
-  "repositoryUrl": "git@github.com:speakbox/nestjs-firebase-admin.git",
+  "repositoryUrl": "git@github.com:blueoath-notionfreee/nestjs-firebase-admin.git",
   "plugins": [
     ["@semantic-release/commit-analyzer", {
       "preset": "conventionalcommits"

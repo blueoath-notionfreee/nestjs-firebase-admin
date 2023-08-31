@@ -1,8 +1,8 @@
 {
-  "name": "@speakbox/nestjs-firebase-admin",
+  "name": "@michihiro.ota/nestjs-firebase-admin",
   "version": "1.2.0",
   "description": "NestJS Firebase Admin Service Factory",
-  "author": "Valentin Prugnaud <valentin@speakbox.ca>",
+  "author": "Michihiro Ota <mo@blueaoth.jp>",
   "license": "MIT",
   "engines": {
     "node": ">=16"
@@ -33,9 +33,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/speakbox/nestjs-firebase-admin.git"
+    "url": "git+https://github.com/blueoath-notionfreee/nestjs-firebase-admin.git"
   },
-  "bugs": "https://github.com/nestjsplus/nestjs-firebase-admin",
   "peerDependencies": {
     "@nestjs/common": "^9.0.11",
     "@nestjs/config": "^2.2.0",
